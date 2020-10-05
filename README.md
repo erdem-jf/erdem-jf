@@ -1,4 +1,6 @@
-![space](https://github.com/erdem-jf/erdem-jf/blob/main/src/assets/space.gif)
+<p align="center">
+  <img src="https://github.com/erdem-jf/erdem-jf/blob/main/src/assets/space.gif" />
+</p>
 
 <!--
 **erdem-jf/erdem-jf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
